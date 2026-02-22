@@ -186,11 +186,9 @@ Splunk Certified User
 ---
 
 ## Education
-Master’s in Electrical & Computer Engineering	                      2012 - 2014
-Concordia University, Canada
+Master’s in Electrical & Computer Engineering,Concordia University, Canada.	     2012 - 2014
 
-Bachelor of Technology in Electronics & Communication Engineering   2007 – 2011
-JNTU University, India
+Bachelor of Technology in Electronics & Communication Engineering, JNTU University, India.   2007 – 2011
 
 ---
 
