@@ -22,22 +22,23 @@ Zero Trust | Defense-in-Depth | Security-by-Design | Enterprise Security Archite
 
 ### Network Security
 NGFW: Palo Alto, FortiGate, Cisco Firepower, Check Point  
-Firewall Policy Design | SSL Decryption | App-ID | User-ID  
+Firewall Policy Design | SSL Ecryption/Decryption | App-ID | User-ID  
 Network Segmentation (Macro/Micro) | East-West / North-South Controls  
 VPN (IPSec, SSL) | Remote Access | Reverse Proxy  
-Cisco ACI | Cisco Umbrella  
+Cisco ACI | Cisco Umbrella | Cisco Catalyst Center | Cisco Secure X
 DDoS Protection (Arbor)  
-Load Balancing: F5 LTM/GTM/APM | FortiADC | WAF | L4-L7  
+Load Balancing: F5 LTM/GTM/APM | FortiADC | WAF | L4-L7 | Netscalar ADC  
 Routing: BGP, OSPF, EIGRP | MPLS | DMVPN  
 Switching: Nexus, Catalyst | Data Center Networking  
 SASE / SSE | SD-WAN | ZTNA | SWG | CASB | FWaaS
+NAC: Cisco ISE (802.1X, EAP-TLS, Posture, Profiling)
 
 ---
 
 ### Cloud Security
 AWS | Azure | Hybrid & Multi-Cloud Architecture  
-VPC / VNets | Subnets | Routing | Security Groups / NSGs  
-Cloud Guardrails | Landing Zones | ExpressRoute / Site-to-Site VPN  
+VPC / VNets | Subnets | Routing | Security Groups / NSGs / NACL's
+Cloud Guardrails | Landing Zones | ExpressRoute / Direct-Connect | CDN | Site-to-Site VPN  
 Identity-Aware Access | Shared Responsibility Models
 
 ---
@@ -50,7 +51,7 @@ Runtime Protection | Cloud Vulnerability & Exposure Management
 ---
 
 ### Data Security
-Enterprise DLP Programs | Data Classification  
+Enterprise DLP Programs | Data Classification | Data Labeling 
 Encryption & Key Management (Azure Key Vault, AWS KMS)  
 Secure Data Flows | Data Exposure Risk Reduction  
 Privacy & Regulatory Alignment
@@ -72,7 +73,6 @@ IAM | IGA | PAM
 SSO | MFA | Conditional Access  
 Azure AD / Entra ID | Okta | SailPoint  
 PKI Architecture & Certificate Lifecycle Management  
-NAC: Cisco ISE (802.1X, EAP-TLS, Posture, Profiling)
 
 ---
 
@@ -126,7 +126,7 @@ Splunk Certified User
 ---
 ## Professional Experience
 
-### Government of Alberta — Enterprise Security Architect
+### Government of Alberta — Senior Enterprise Security Architect
 
 2023 – Present | Edmonton, AB
 
@@ -175,23 +175,22 @@ Splunk Certified User
 
 ---
 
-## Certifications
+### IT Partners Inc  
+**Information Security Consultant** | 2014 – 2015
 
-CISSP – Certified Information Systems Security Professional
-CISM – Certified Information Security Manager
-CRISC – Certified in Risk and Information Systems Control
-Microsoft Azure Cybersecurity Architect
-AWS Certified Solutions Architect – Associate
-CCNP – Cisco Certified Network Professional
-PCNSA – Palo Alto Networks Certified Network Security Administrator
-ITIL v4
-Splunk Certified User
+- Delivered security architecture and access control solutions for enterprise and public sector clients.
+- Conducted security assessments and gap analyses with prioritized remediation roadmaps.
+- Implemented NGFW, IDS/IPS, and network segmentation architectures.
+- Established secure baselines and access governance for managed service onboarding.
 
 ---
 
 ## Education
+Master’s in Electrical & Computer Engineering	                      2012 - 2014
+Concordia University, Canada
 
-Bachelor’s Degree in Computer Science / Information Technology (or equivalent)
+Bachelor of Technology in Electronics & Communication Engineering   2007 – 2011
+JNTU University, India
 
 ---
 
