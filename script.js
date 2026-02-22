@@ -90,7 +90,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 navLinks.style.left = '0';
                 navLinks.style.width = '100%';
                 navLinks.style.background = '#fff';
-                navLinks.style.padding = '2rem';
+                navLinks.style.padding = '1rem';
                 navLinks.style.borderBottom = '1px solid hsl(var(--border))';
                 navLinks.style.boxShadow = '0 10px 20px rgba(0,0,0,0.1)';
             }
