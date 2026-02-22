@@ -118,6 +118,7 @@ CISM – Certified Information Security Manager
 CRISC – Certified in Risk and Information Systems Control  
 Microsoft Azure Cybersecurity Architect  
 AWS Certified Solutions Architect – Associate  
+CCNA – Cisco Certified Network Associate  
 CCNP – Cisco Certified Network Professional  
 PCNSA – Palo Alto Networks Certified Network Security Administrator  
 ITIL v4  
