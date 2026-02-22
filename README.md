@@ -25,11 +25,11 @@ NGFW: Palo Alto, FortiGate, Cisco Firepower, Check Point
 Firewall Policy Design | SSL Ecryption/Decryption | App-ID | User-ID  
 Network Segmentation (Macro/Micro) | East-West / North-South Controls  
 VPN (IPSec, SSL) | Remote Access | Reverse Proxy  
-Cisco ACI | Cisco Umbrella | Cisco Catalyst Center | Cisco Secure X | Cisco ThousandEyes
+Cisco ACI | Cisco Umbrella | Cisco Catalyst Center | Cisco Secure X | Cisco ThousandEyes  
 DDoS Protection (Arbor)  
 Load Balancing: F5 LTM/GTM/APM | FortiADC | WAF | L4-L7 | Netscalar ADC  
 Routing: BGP, OSPF, EIGRP | MPLS | DMVPN  
-Switching: Nexus, Catalyst | Data Center Networking | VLAN | STP | VxLAN 
+Switching: Nexus, Catalyst | Data Center Networking | VLAN | STP | VxLAN  
 NAC: Cisco ISE (802.1X, EAP-TLS, Posture, Profiling) | Aruba ClearPass   
 SASE / SSE (Zscalar, Palo Alto, Netskope) | SD-WAN | ZTNA | SWG | CASB | FWaaS 
 
