@@ -9,7 +9,7 @@ Atlanta, GA | Open to Remote / Relocation
 
 ## Professional Summary
 
-Enterprise Security Architect with 13+ years of experience designing and leading enterprise cybersecurity programs across network, cloud, data, identity, and SOC domains. Proven track record delivering Zero Trust, SASE/SSE, CNAPP, and SOC modernization initiatives for environments supporting **30,000+ users and 700+ locations**. Expert in AWS and Azure security, enterprise network architecture, detection engineering, and DevSecOps automation. Trusted advisor to executives, driving risk-based decisions, multi-year security roadmaps, and measurable risk reduction.
+Enterprise Security Architect with 13+ years of experience designing and leading enterprise cybersecurity programs across network, cloud, data, identity, and SOC domains. Proven track record delivering Zero Trust, SASE/SSE, CNAPP, and SOC modernization initiatives for environments supporting 30,000+ users and 700+ locations. Expert in AWS and Azure security, enterprise network architecture, detection engineering, and DevSecOps automation. Trusted advisor to executives, driving risk-based decisions, multi-year security roadmaps, and measurable risk reduction.
 
 ---
 
@@ -25,13 +25,13 @@ NGFW: Palo Alto, FortiGate, Cisco Firepower, Check Point
 Firewall Policy Design | SSL Ecryption/Decryption | App-ID | User-ID  
 Network Segmentation (Macro/Micro) | East-West / North-South Controls  
 VPN (IPSec, SSL) | Remote Access | Reverse Proxy  
-Cisco ACI | Cisco Umbrella | Cisco Catalyst Center | Cisco Secure X
+Cisco ACI | Cisco Umbrella | Cisco Catalyst Center | Cisco Secure X | Cisco ThousandEyes
 DDoS Protection (Arbor)  
 Load Balancing: F5 LTM/GTM/APM | FortiADC | WAF | L4-L7 | Netscalar ADC  
 Routing: BGP, OSPF, EIGRP | MPLS | DMVPN  
-Switching: Nexus, Catalyst | Data Center Networking  
-SASE / SSE | SD-WAN | ZTNA | SWG | CASB | FWaaS
-NAC: Cisco ISE (802.1X, EAP-TLS, Posture, Profiling)
+Switching: Nexus, Catalyst | Data Center Networking | VLAN | STP | VxLAN 
+NAC: Cisco ISE (802.1X, EAP-TLS, Posture, Profiling) | Aruba ClearPass  
+SASE / SSE (Zscalar, Palo Alto, Netskope) | SD-WAN | ZTNA | SWG | CASB | FWaaS 
 
 ---
 
@@ -60,11 +60,11 @@ Privacy & Regulatory Alignment
 
 ### Application Security (Shift-Left)
 Secure SDLC | OWASP Top 10  
-SAST | DAST | SCA (Snyk)  
+SAST | DAST | SCA
 CI/CD Security Integration | Pipeline Hardening  
 Terraform Security | Infrastructure Security Controls  
 API Security | OAuth2 | OIDC | SAML  
-Wiz | Prisma Cloud Application Security
+Wiz | Prisma Cloud Application Security | Synk
 
 ---
 
@@ -164,9 +164,7 @@ Splunk Certified User
 
 ---
 
-### AFSC — Network & Cloud Security Consultant
-
-2015 – 2018
+### AFSC — Network & Cloud Security Consultant  2015 – 2018
 
 * Designed secure enterprise network architecture across **50+ locations**, improving availability to **99.99%**.
 * Implemented **F5 load balancing and WAF protections** for critical applications.
