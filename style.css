@@ -227,7 +227,7 @@ body {
     font-size: 1.25rem;
     color: hsl(var(--text-secondary));
     margin-bottom: 1.5rem;
-    max-width: 600px;
+    max-width: 1100px;
 }
 
 .hero-actions {
@@ -258,6 +258,7 @@ body {
 .btn-primary:hover {
     background: hsl(var(--primary), 0.9);
     transform: translateY(-2px);
+    color: #27c93f;
 }
 
 .btn-secondary {
