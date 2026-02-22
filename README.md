@@ -1,64 +1,129 @@
 # Pavan Madithati
+**Enterprise Security Architect | Cybersecurity Leader | Zero Trust | Cloud, Network, APP & Data Security**
 
-**Enterprise Security Architect | Cybersecurity Leader | Cloud & Network Security**
-
-✉️ [pavan.madithati@hotmail.com](mailto:pavan.madithati@hotmail.com)
-🔗 [LinkedIn](https://linkedin.com/in/pavanmadithati)
+Atlanta, GA | Open to Remote / Relocation  
+📧 pavan.madithati@hotmail.com  
+🔗 https://linkedin.com/in/pavanmadithati  
 
 ---
 
 ## Professional Summary
 
-Enterprise Security Architect with **13+ years of experience** designing and securing large-scale hybrid environments across **network, cloud, identity, data, and security operations**. Proven expertise in **Zero Trust, SASE, multi-cloud security (AWS/Azure), enterprise network architecture, CNAPP, SOC modernization, and DevSecOps automation**.
-
-Recognized for leading security transformations that reduce risk, improve resilience, and enable business agility across environments supporting **700+ locations and 25,000+ users**.
+Enterprise Security Architect with 13+ years of experience designing and leading enterprise cybersecurity programs across network, cloud, data, identity, and SOC domains. Proven track record delivering Zero Trust, SASE/SSE, CNAPP, and SOC modernization initiatives for environments supporting **30,000+ users and 700+ locations**. Expert in AWS and Azure security, enterprise network architecture, detection engineering, and DevSecOps automation. Trusted advisor to executives, driving risk-based decisions, multi-year security roadmaps, and measurable risk reduction.
 
 ---
 
 ## Core Skills
 
 ### Security Architecture & Strategy
-
-Zero Trust | Defense-in-Depth | Security-by-Design | Enterprise Security Architecture | Risk-Based Design | Threat Modeling | Security Roadmaps
-
-### Network Security
-
-NGFW (Palo Alto, FortiGate, Firepower) | Micro/Macro Segmentation | East-West / North-South Controls | VPN | Reverse Proxy | DDoS (Arbor) | Cisco ACI | F5 LTM/GTM | SASE | SD-WAN | ZTNA | CASB | FWaaS
-
-### Cloud Security
-
-AWS | Azure | Cloud Networking | Security Groups / NSGs | Identity & Access Controls | Cloud Guardrails | Landing Zones | Hybrid Connectivity | Multi-Cloud Architecture
-
-### Cloud-Native Protection
-
-CNAPP (Prisma Cloud) | CSPM | CWPP | Container Security | Kubernetes | Docker | Runtime Protection | Vulnerability Management
-
-### Data Security
-
-Data Classification | Encryption | Key Management (Azure Key Vault, AWS KMS) | Data Flow Security | DSPM Concepts | Privacy & Regulatory Alignment
-
-### Application Security
-
-Secure SDLC | API Security | OAuth / SAML / OIDC | Threat Modeling | Code Scanning Integration | CI/CD Security Gates
-
-### SOC & Detection Engineering
-
-Microsoft Sentinel | Defender XDR | Splunk | Use Case Engineering | MITRE ATT&CK | Threat Hunting | Incident Response | SOAR | SOC Metrics (MTTD/MTTR)
-
-### Automation & DevSecOps
-
-Terraform | Infrastructure-as-Code | Policy-as-Code | Python / PowerShell | CI/CD Integration | Automated Remediation | GitHub / Azure DevOps
-
-### AI Security
-
-AI/ML Risk Awareness | Data Exposure Controls for AI | Model Access Governance | Secure AI Usage Guardrails
-
-### Governance & Compliance
-
-NIST | ISO 27001 | SOC2 | Risk Assessments | Security Metrics | Audit Readiness
+Zero Trust | Defense-in-Depth | Security-by-Design | Enterprise Security Architecture | Threat Modeling | Risk-Based Design | Security Roadmaps | Reference Architectures
 
 ---
 
+### Network Security
+NGFW: Palo Alto, FortiGate, Cisco Firepower, Check Point  
+Firewall Policy Design | SSL Decryption | App-ID | User-ID  
+Network Segmentation (Macro/Micro) | East-West / North-South Controls  
+VPN (IPSec, SSL) | Remote Access | Reverse Proxy  
+Cisco ACI | Cisco Umbrella  
+DDoS Protection (Arbor)  
+Load Balancing: F5 LTM/GTM/APM | FortiADC | WAF | L4-L7  
+Routing: BGP, OSPF, EIGRP | MPLS | DMVPN  
+Switching: Nexus, Catalyst | Data Center Networking  
+SASE / SSE | SD-WAN | ZTNA | SWG | CASB | FWaaS
+
+---
+
+### Cloud Security
+AWS | Azure | Hybrid & Multi-Cloud Architecture  
+VPC / VNets | Subnets | Routing | Security Groups / NSGs  
+Cloud Guardrails | Landing Zones | ExpressRoute / Site-to-Site VPN  
+Identity-Aware Access | Shared Responsibility Models
+
+---
+
+### Cloud-Native Protection
+CNAPP (Prisma Cloud) | CSPM | CWPP | CIEM | DSPM | KSPM | ASPM  
+Container Security | Kubernetes | Docker  
+Runtime Protection | Cloud Vulnerability & Exposure Management
+
+---
+
+### Data Security
+Enterprise DLP Programs | Data Classification  
+Encryption & Key Management (Azure Key Vault, AWS KMS)  
+Secure Data Flows | Data Exposure Risk Reduction  
+Privacy & Regulatory Alignment
+
+---
+
+### Application Security (Shift-Left)
+Secure SDLC | OWASP Top 10  
+SAST | DAST | SCA (Snyk)  
+CI/CD Security Integration | Pipeline Hardening  
+Terraform Security | Infrastructure Security Controls  
+API Security | OAuth2 | OIDC | SAML  
+Wiz | Prisma Cloud Application Security
+
+---
+
+### Identity & Access Security
+IAM | IGA | PAM  
+SSO | MFA | Conditional Access  
+Azure AD / Entra ID | Okta | SailPoint  
+PKI Architecture & Certificate Lifecycle Management  
+NAC: Cisco ISE (802.1X, EAP-TLS, Posture, Profiling)
+
+---
+
+### SOC & Detection Engineering
+Microsoft Sentinel | Splunk | Defender XDR | Cortex XSOAR  
+Threat Hunting | Incident Response | Purple Teaming  
+MITRE ATT&CK Mapping | Detection Use Case Engineering  
+SOC Metrics: MTTD | MTTR | Alert Fidelity
+
+---
+
+### Vulnerability & Exposure Management
+Rapid7 | Tenable Nessus  
+Penetration Testing Coordination  
+Risk-Based Remediation Programs
+
+---
+
+### Automation & DevSecOps
+Terraform | Infrastructure-as-Code | Policy-as-Code  
+Python | PowerShell  
+CI/CD Integration (GitHub, Azure DevOps)  
+API-Driven Security | Automated Remediation | SOAR
+
+---
+
+### AI Security
+AI/ML Risk Awareness | Data Exposure Controls for AI  
+Model Access Governance | Secure AI Usage Guardrails
+
+---
+
+### Governance & Compliance
+NIST CSF | ISO 27001 | SOC2 | PCI DSS | HIPAA | GDPR  
+Risk Assessments | Audit Readiness | Security Metrics | Executive Reporting
+
+---
+
+## Certifications
+
+CISSP – Certified Information Systems Security Professional  
+CISM – Certified Information Security Manager  
+CRISC – Certified in Risk and Information Systems Control  
+Microsoft Azure Cybersecurity Architect  
+AWS Certified Solutions Architect – Associate  
+CCNP – Cisco Certified Network Professional  
+PCNSA – Palo Alto Networks Certified Network Security Administrator  
+ITIL v4  
+Splunk Certified User  
+
+---
 ## Professional Experience
 
 ### Government of Alberta — Enterprise Security Architect
@@ -103,7 +168,7 @@ NIST | ISO 27001 | SOC2 | Risk Assessments | Security Metrics | Audit Readiness
 
 2015 – 2018
 
-* Designed secure enterprise network architecture across **560+ locations**, improving availability to **99.99%**.
+* Designed secure enterprise network architecture across **50+ locations**, improving availability to **99.99%**.
 * Implemented **F5 load balancing and WAF protections** for critical applications.
 * Supported cloud migration by designing secure **VPN and segmentation architectures** for AWS and Azure.
 * Automated firewall policy management and reporting, reducing operational effort by **25%**.
