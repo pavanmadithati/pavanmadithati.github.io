@@ -1,5 +1,5 @@
 # Pavan Madithati
-**Enterprise Security Architect | Cybersecurity Leader | Zero Trust | Cloud, Network, APP & Data Security**
+**Enterprise Security Architect | Cybersecurity Leader | Zero Trust | Cloud, Network, App & Data Security**
 
 Atlanta, GA | Open to Remote / Relocation  
 📧 pavan.madithati@hotmail.com  
