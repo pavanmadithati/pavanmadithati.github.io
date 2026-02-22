@@ -30,7 +30,7 @@ DDoS Protection (Arbor)
 Load Balancing: F5 LTM/GTM/APM | FortiADC | WAF | L4-L7 | Netscalar ADC  
 Routing: BGP, OSPF, EIGRP | MPLS | DMVPN  
 Switching: Nexus, Catalyst | Data Center Networking | VLAN | STP | VxLAN 
-NAC: Cisco ISE (802.1X, EAP-TLS, Posture, Profiling) | Aruba ClearPass  
+NAC: Cisco ISE (802.1X, EAP-TLS, Posture, Profiling) | Aruba ClearPass   
 SASE / SSE (Zscalar, Palo Alto, Netskope) | SD-WAN | ZTNA | SWG | CASB | FWaaS 
 
 ---
